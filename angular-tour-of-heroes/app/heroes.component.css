@@ -8,6 +8,14 @@
          padding: 0;
          width: 15em;
         }
+	button.delete {
+	float: right;
+	margin-top: 2px;
+	margin-right: .8em;
+	background-color: gray !important;
+	color: white;
+	}
+
         .heroes li{
          cursos: pointer;
          position: relative;
